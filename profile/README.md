@@ -1,17 +1,16 @@
-## Welcome to SSG Dev's Home 👋
+<a name="readme-top"></a>
 
-## Key Repositories
+<br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <a href="https://www.staticsystems.co.uk/">
+    <img src="https://www.staticsystems.co.uk/wp-content/uploads/2022/09/ssg-logo-blue.png" alt="Logo" width="300">
+  </a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<h3 align="center">Static Systems Group</h3>
+<p align="center">Enabling better healthcare through smart technology</p>
 
-## The Team
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  <p align="center">
+    <a href="https://www.staticsystems.co.uk/"><strong>Visit the Website »</strong></a>
+  </p>
+</div>
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
